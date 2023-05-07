@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aryarajesh04
 - 👀 I’m interested in HTML, CSS, JavaScript
 - 🌱 I’m currently learning React and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+]
 
 <!---
 aryarajesh04/aryarajesh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
